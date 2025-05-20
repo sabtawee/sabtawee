@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-I write a programming language reactjs nodejs for 6 year
+I write a programming language reactjs nodejs for 7 year
 
 * 🌍  I'm based in Lopburi, Thailand
 * 🖥️  See my portfolio at [Sabtawee Sabannajuy](http://www.facebook.com/subtawee.subannajuy)
